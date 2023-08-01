@@ -7,3 +7,6 @@ After searching for some graphic material, I haven't found a sticker with their 
 - [Article on Jacobin](https://jacobin.com/2023/04/italy-gkn-factory-occupation-transform-production-workers-jobs-climate-change)
 
 ![Insorgiamo Sticker](INSORGIAMO.png)
+
+## License
+This sticker set is released under [CC0 1.0](LICENSE).
